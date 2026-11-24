@@ -1,0 +1,12 @@
+# Byggfiler
+bin/
+obj/
+
+# Lokala inställningar för Visual Studio
+.vs/
+*.user
+*.suo
+
+# Lokala databasfiler
+*.mdf
+*.ldf
